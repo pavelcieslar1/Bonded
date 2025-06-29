@@ -1,0 +1,35 @@
+﻿#msgBtn {
+    border-radius:25%;
+}
+
+.profile-main {
+    background:#fff;
+}
+
+.big-hearth {
+    background: linear-gradient(45deg, #ff9767, #ef4c60);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.badge {
+    background:#ffe8e0;
+    color:#ff7d6c;
+    font-weight:500;
+    font-size:1rem;
+    border-radius:14px;
+    padding:6px 15px;
+}
+
+.badge-icon {
+    margin-right:6px;
+}
+
+.profile-hobby {
+    border:2px solid;
+    border-color: linear-gradient(45deg, #ff9767, #ef4c60);
+    border-radius:14px;
+    padding:4px 12px;
+    font-size:1rem;
+    font-weight:500;
+}

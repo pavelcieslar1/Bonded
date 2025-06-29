@@ -1,0 +1,21 @@
+{
+  "name": "bonded",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.28.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@microsoft/signalr": "^8.0.7",
+    "bootstrap-icons": "^1.13.1",
+    "dompurify": "^3.2.6"
+  }
+}
